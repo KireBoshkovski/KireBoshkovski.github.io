@@ -31,5 +31,3 @@ document.querySelectorAll('nav ul li a').forEach(link => {
       formMessage.textContent = 'Please fill in all fields.';
     }
   });
-  
-  console.log(";)")
